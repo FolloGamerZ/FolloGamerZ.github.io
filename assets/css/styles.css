@@ -397,7 +397,7 @@ Header Style
 }
 
 .header-area .main-nav .logo {
-  border-right: 1px solid #27292a;
+  border-right: 1px solid #fff;
   flex-basis: 25%;
   margin-top: px;
   margin-right: 5%;
@@ -405,7 +405,7 @@ Header Style
 }
 
 .header-area .main-nav .kk{
-  color: #fff;
+  color: #27292a;
 }
 
 .background-header .main-nav .kk{
@@ -638,11 +638,11 @@ Header Style
     position: absolute;
     left: 30px;
     top: 15px;
-    color: #00132b;
+    color: #fff;
   }
   .background-header .main-nav .logo {
     top: 0px;
-    color: #00132b;
+    color: #fff;
   }
   .background-header .main-nav .border-button {
     top: 0px !important;
